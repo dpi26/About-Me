@@ -1,5 +1,5 @@
 # About-Me
-👋 Hi, I'm Dipti Kumari  
+👋 Hi, I'm Dipti Kumari--
 
 💻 MERN Stack Developer 🤖 AI Enthusiast 📍 India  
 🔥 Featured Projects 
