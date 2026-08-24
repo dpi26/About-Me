@@ -6,7 +6,7 @@
 ⭐ Campus Safety Guardian 
 ⭐ Student Management System 
 ⭐ Portfolio Website 
-⭐ AI Pet Face Classification  
+⭐ AI Pet Face Classification . 
 
 🛠 Tech Stack
 HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Git 📈 GitHub 
