@@ -9,7 +9,7 @@
 ⭐ AI Pet Face Classification  
 
 🛠 Tech Stack
-HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Git 📈 GitHub Stats 
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Git 📈 GitHub 
 
 📫 Contact 
 LinkedIn :https://www.linkedin.com/in/dipti-kumari-01786a302/
