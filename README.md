@@ -15,3 +15,18 @@ HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Git �
 LinkedIn :https://www.linkedin.com/in/dipti-kumari-01786a302/
 Portfolio :https://dipti-kumari.kryotek.in
 Email :kdipti099@gmail.com
+💫 About Me:
+I am a 3rd year student pursuing my Computer Engineering degree in KNIT, Sultanpur.
+
+🌐 Socials:
+Discord LinkedIn email
+
+💻 Tech Stack:
+JavaScript HTML5 CSS3 Python Google Cloud NodeJS Next JS MongoDB MySQL Pandas NumPy Matplotlib GitHub
+
+📊 GitHub Stats:
+
+
+
+
+🔝 Top Contributed Repo
